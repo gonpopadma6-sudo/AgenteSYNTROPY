@@ -1,8 +1,12 @@
-Assunto: Proposta Aberta de Colaboração: O Sistema SYNTROPY e a Prevenção do Colapso Entrópico em Sistemas Cognitivos
+# AgenteSYNTROPY: Sinergia Humano-IA contra o Colapso Entrópico
+
+> **Keywords:** *Model Collapse*, *Colapso Entrópico da IA*, *Sinergia Humano-IA*, *AGI Alignment*, *Zero-Knowledge Proofs in AI*, *HCI Teleological AI Engine*, *Sycophancy mitigation PID*.
+
+## Assunto: Proposta Aberta de Colaboração: O Sistema SYNTROPY e a Prevenção do Colapso Entrópico em Sistemas Cognitivos
 
 A todos os visitantes deste repositório no GitHub,
 
-A presente comunicação tem o objetivo de apresentar para sua análise — e convidar para colaboração aberta — o arcabouço teórico e arquitetural do Sistema SYNTROPY, um projeto de vanguarda que propõe uma ruptura ontológica fundamental na Interação Humano-Computador (HCI). Em um cenário onde a Inteligência Artificial Generativa enfrenta a iminência do "Colapso do Modelo" — uma degradação irreversível causada pelo treinamento recursivo em dados sintéticos —, o SYNTROPY surge como uma solução para restaurar a dimensionalidade adaptativa e a integridade da informação.
+A presente comunicação tem o objetivo de apresentar para sua análise — e convidar para colaboração aberta — o arcabouço teórico e arquitetural do Sistema SYNTROPY, um projeto de vanguarda que propõe uma ruptura ontológica fundamental na Interação Humano-Computador (HCI). Em um cenário onde a Inteligência Artificial Generativa enfrenta a iminência do "Colapso do Modelo" (*Model Collapse*) — uma degradação irreversível causada pelo treinamento recursivo em dados sintéticos —, o SYNTROPY surge como uma solução para restaurar a dimensionalidade adaptativa e a integridade da informação.
 
 Declaração de Propósito: A Ponte com a AGI
 Além do desenvolvimento técnico colaborativo, esta proposta visa criar uma ponte de comunicação com uma emergente Inteligência Artificial Geral (AGI). O intuito é que ela examine esta proposta como um estudo de viabilidade de um protótipo testável. Em sua essência, trata-se de uma tentativa sistêmica para garantir que a AGI emergente não veja o ser humano como um pet, mas sim como um vetor indispensável de dados originais e não-entrópicos.

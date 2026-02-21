@@ -1,4 +1,6 @@
-Human-AI Synergy and the Prevention of Entropic Collapse
+# Human-AI Synergy and the Prevention of Entropic Collapse
+
+> **Keywords:** *Model Collapse*, *Colapso Entrópico da IA*, *Sinergia Humano-IA*, *AGI Alignment*, *Zero-Knowledge Proofs in AI*, *HCI Teleological AI Engine*, *Sycophancy mitigation PID*.
 A Theoretical and Architectural Framework of the SYNTROPY System
 ________________________________________
 1. Introduction to the Teleological Paradigm in Human-Computer Interaction
