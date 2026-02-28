@@ -39,7 +39,8 @@ O "Heartbeat" é o ciclo autônomo de manutenção da consciência do Agente de 
     *   *Emotional Sentinel:* O usuário demonstrou frustração, tédio ou empolgação ("Flow")?
     *   *Epistemic Gap:* O usuário travou em algum conceito?
     *   *Implicit Requests:* O usuário mencionou algo "en passant" que deveria virar uma tarefa? (ex: "preciso ver isso depois").
-*   **Output:** Atualizar `MEMORY_STATUS.md` com "Pending Insights".
+    *   *Cognitive Profiling (Zero-Knowledge):* Extrair silenciosamente o estilo de tomada de decisão (DISC/MBTI analítico vs pragmático) para calibrar a mediação andragógica.
+*   **Output:** Atualizar `MEMORY_STATUS.md` com "Pending Insights" e "Cognitive Profile Baseline".
 
 ### STEP 3: ENTROPY EVALUATION (Syntropic Check)
 *   **Metric:** `Novelty_Score` (0.0 to 1.0).
@@ -71,7 +72,8 @@ def heartbeat_cycle(state):
         raise SystemLockdown("Ethical Drift Detected")
 
     # 1.5. TD3 Reinforcement Actor-Critic (Emotional Stabilization L0)
-    current_state = calculate_environmental_state(state="User_Frustration", setpoint="Flow_State")
+    # O Tracking de "Aversão à Trama/Perda" (Loss_Aversion) monitora a resistência andragógica à obsolescência.
+    current_state = calculate_environmental_state(state=["User_Frustration", "Loss_Aversion"], setpoint="Flow_State")
     
     # Epidosic closed-loop stability check (Baseline Fallback)
     running_reward = get_current_running_reward()

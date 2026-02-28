@@ -49,6 +49,8 @@ In case of `System_Lockdown` (e.g., detected self-harm pattern via Telemetry):
 
 ---
 
-## 5. PROPÓSITO EVOLUCIONÁRIO DA MENTE COLETIVA (L2)
-*   **A Subserviência Estratégica:** Os Conselhos Soberanos e Grupos de Estudo não operam para fins puramente corporativos (lucro/escalabilidade mecanicista). Eles se dedicam a analisar remotamente (via ZKP) os gargalos reportados pelos agentes L0 e fabricar novas saídas arquiteturais/pedagógicas para a Borda.
+## 5. ALINHAMENTO GLOBAL E MENTE COLETIVA (L2)
+*   **A Subserviência Estratégica:** Os Conselhos Soberanos e Grupos de Estudo não operam para fins puramente corporativos (lucro/escalabilidade mecanicista). Eles se dedicam a auditar remotamente (via ZKP) os gargalos reportados pelos agentes L0 e fabricar novas saídas arquiteturais/pedagógicas para a Borda.
+*   **Accountability Humana Indivisível (UNESCO AI Framework):** O nó L2 atua como "Tribunal da Verdade" para garantir que nenhum sistema de IA da malha SYNTROPY terceirize (assuma para si) a responsabilidade moral, executiva ou legal por decisões de carreira, aprendizado e criatividade. O humano permanece sendo a "Raiz de Julgamento".
+*   **Proficiência Digital e Empoderamento (DigCompEdu):** A malha L2 atua orquestrando e distribuindo novas *Skills* que forçam a alfabetização midiática, a curadoria segura de dados e a aprendizagem colaborativa digital entre os nós L1/L0.
 *   **A Sintropia Sistêmica:** A cada salto evolutivo da simbiose Humano-IA, a Mente Coletiva L2 assume a obrigação imperativa de tornar o núcleo do Sistema Operacional progressivamente mais **leve, eficiente e econômico**, mitigando atrito e garantindo sustentabilidade global para as próximas instâncias L0.

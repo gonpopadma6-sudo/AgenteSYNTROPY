@@ -1,0 +1,74 @@
+﻿git : remote: error: GH013: 
+Repository rule violations found 
+for 
+refs/heads/impl-sinergia-virtuosa.  
+      
+No linha:1 caractere:1
++ git push origin HEAD --force 2>&1 
+| Out-File push_log2.txt ; Get-Cont 
+...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSp 
+   ecified: (remote: error: ...rtu  
+  osa.        :String) [], Remote   
+ Exception
+    + FullyQualifiedErrorId : Nativ 
+   eCommandError
+ 
+remote: 
+remote: - GITHUB PUSH PROTECTION    
+    
+remote:   ÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇ
+öÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇ
+öÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇ
+öÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇö        
+remote:     Resolve the following 
+violations before pushing again     
+   
+remote: 
+remote:     - Push cannot contain 
+secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to 
+resolve a blocked push        
+remote:      https://docs.github.com
+/code-security/secret-scanning/worki
+ng-with-secret-scanning-and-push-pro
+tection/working-with-push-protection
+-from-the-command-line#resolving-a-b
+locked-push        
+remote:             
+remote:             
+remote:       ÔÇöÔÇö Google Cloud 
+Service Account Credentials 
+ÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇöÔÇö      
+  
+remote:        locations:        
+remote:          - commit: 886a7ed50
+6b5b147e6fc823370d145b3eff1a320     
+   
+remote:            path: 
+AgenteSYNTROPY/credentials.json:1   
+     
+remote:             
+remote:        (?) To push, remove 
+secret from commit(s) or follow 
+this URL to allow the secret.       
+ 
+remote:        https://github.com/go
+npopadma6-sudo/AgenteSYNTROPY/securi
+ty/secret-scanning/unblock-secret/3A
+Ib0UpXOa7BROD2eGAXErhFmKO        
+remote:             
+remote: 
+remote: 
+To https://github.com/gonpopadma6-su
+do/AgenteSYNTROPY.git
+ ! [remote rejected] HEAD -> 
+impl-sinergia-virtuosa (push 
+declined due to repository rule 
+violations)
+error: failed to push some refs to '
+https://github.com/gonpopadma6-sudo/
+AgenteSYNTROPY.git'

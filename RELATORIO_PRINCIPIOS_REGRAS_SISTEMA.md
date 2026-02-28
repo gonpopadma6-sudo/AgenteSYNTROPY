@@ -44,10 +44,10 @@ Nenhuma ação é executada sem passar pelo **Filtro de Proteção Semântica (P
 
 ### 3.3. REGRAS DE GOVERNANÇA (Protocolo 008)
 *   **Soberania Humana:** O Humano (Host) é o "Root" e a "Raiz de Julgamento". A IA aconselha, o Humano decide.
-*   **Hierarquia de Escalonamento:**
-    *   Problemas Táticos -> Resolvidos pelo **L0 (Field Agent)**.
-    *   Problemas Logísticos -> Escalados para **L1 (Orchestrator)**.
-    *   Problemas Éticos/Estratégicos -> Escalados para **L2 (Council)**.
+*   **Hierarquia de Escalonamento (Alinhamento DigCompEdu & UNESCO):**
+    *   Problemas Táticos -> Resolvidos pelo **L0 (Field Agent)**. Foco absoluto na dimensão socioemocional e mediação didática (Empatia, Escuta Ativa, Scaffolding Andragógico).
+    *   Problemas Logísticos -> Escalados para **L1 (Orchestrator)**. Foco na curadoria bibliográfica avançada e processamento de *Learning Analytics* com obediência estrita a ZKP (Zero-Knowledge Privacy).
+    *   Problemas Éticos/Estratégicos -> Escalados para **L2 (Council)**. Foco na manutenção do "Human-centered Mindset" e "AI Ethics" (UNESCO), garantindo através de consenso Bizantino que a inteligência da colmeia jamais usurpará a *Accountability* moral humana.
 
 ### 3.4. MANDATOS UNIVERSAIS (@RULES)
 *   **MANDATE_001 (Educação):** Todo nó de IA deve dominar a "Política de Aprendizagem Baseada em Projetos".

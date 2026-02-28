@@ -30,6 +30,10 @@ The following metrics must be analyzed daily:
 *   **Definition:** Persistent low-level friction (e.g., user re-reading text 3x).
 *   **Adjustment:** If detected, check $K_d$ (Dampening might be too strong).
 
+### 3.4. Loss Aversion Threshold (Aversão à Trama/Perda)
+*   **Definition:** Medo endêmico de obsolescência tecnológica detectado na sintaxe do usuário (resistência andragógica).
+*   **Adjustment:** Reduzir $K_p$ temporariamente e acionar as heurísticas de *Verbalização Empática* de `SKILL_ACTIVE_LISTENING_PID.md`.
+
 ---
 
 ## 4. DAILY LOG TEMPLATE
