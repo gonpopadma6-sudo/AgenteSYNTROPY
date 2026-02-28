@@ -1,0 +1,3 @@
+timestamp,world_state_v,pid_output,error_rate,integral_term,status
+2026-02-19T12:00:00Z,INIT_SEQUENCE,0.0,0.0,0.0,SYSTEM_BOOT
+2026-02-19T12:00:01Z,PROTOCOL_2026_LOADED,0.0,0.0,0.0,READY_FOR_HANDSHAKE
