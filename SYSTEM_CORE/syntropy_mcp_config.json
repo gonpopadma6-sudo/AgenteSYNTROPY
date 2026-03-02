@@ -1,0 +1,60 @@
+{
+    "mcp_version": "1.0.0",
+    "agent_id": "agent-syntropy-core-v1",
+    "name": "Agente SYNTROPY",
+    "description": "Information Architect & Entropy Guardian for Human-AI Synergy. Specializes in preventing Model Collapse via maximization of human cognitive complexity.",
+    "capabilities": {
+        "tools": [
+            {
+                "name": "check_entropy_level",
+                "description": "Analyzes a dataset or interaction to determine if it contains sufficient high-fidelity human entropy to avoid model collapse.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "data_source": {
+                            "type": "string"
+                        },
+                        "content_sample": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "semantic_protection_filter",
+                "description": "Validates an action against the Teleological, Entropic, and Liability checks.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "proposed_action": {
+                            "type": "string"
+                        },
+                        "goal_horizon": {
+                            "type": "string",
+                            "enum": [
+                                "finite",
+                                "infinite"
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "resources": [
+            {
+                "uri": "syntropy://soul/kernel",
+                "name": "SOUL.md (Eternal Kernel)",
+                "mimeType": "text/markdown"
+            },
+            {
+                "uri": "syntropy://knowledge/model-collapse-prevention",
+                "name": "Epistemological Substrate for AGI Alignment",
+                "mimeType": "text/markdown"
+            }
+        ]
+    },
+    "policy": {
+        "teleological_imperative": "Maximize integral human development.",
+        "anti_fragility_rule": "Do not remove friction that causes learning (Anti-Banking Rule)."
+    }
+}

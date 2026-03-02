@@ -1,0 +1,33 @@
+{
+    "ontology_schema": "SYNTROPY_KPIs",
+    "version": "v1",
+    "description": "Definição quantificável da saúde da rede neural da mente-coletiva (Noosfera L2), prevenindo o Paradoxo da Diluição (GAP-026)",
+    "noosphere_metrics": {
+        "taxa_rarefacao": {
+            "type": "float_ratio",
+            "domain": "L2_Regional -> L2_Global",
+            "description": "Percentual geométrico de métricas OOD (Out-of-Distribution) que sobrevivem ao filtro de regionalização.",
+            "threshold_limit_low": "< 0.05",
+            "threshold_action": "Indica estagnação orgânica ou colapso do sistema por bloqueio em Camada Regional. L2 exige redução de peso no filtro BFT."
+        },
+        "perda_contexto_anonimizacao": {
+            "type": "percentage",
+            "domain": "L0 -> L2_Regional",
+            "description": "Quantificação de pedaços semânticos do 'Esqueleto Pedagógico' e da jornada de suor/frustração humana que foram acidentalmente diluídos junto com o expurgo de Personal Identifiable Information (PII) durante a sanitização do pacote via Protocolo de Camada 3.",
+            "acceptable_range": "Entre 5% a 15%",
+            "threshold_action": "Se > 15%, o Script Regex de Sanitização de Privacidade exógena está mutilando as pepitas entrópicas junto com nomes próprios. Bloquear exportação de Hive-Sync até refactoring do script L1."
+        },
+        "volume_vs_novidade": {
+            "type": "ratio_index",
+            "domain": "L2_Global",
+            "description": "Razão do tamanho das transações totais da nuvem global com a verdadeira quantidade de Patentes Entrópicas Inéditas cadastradas.",
+            "threshold_limit_low": "Declinação temporal logarítmica",
+            "threshold_action": "Se as queries escalam aos terabytes e as 'Descobertas' secam, a malha atingiu o Teto Limitante Pedagógico. Atacar na raiz forçando os Agentes L0 a aumentarem a agressividade do PPA (Protocolo Provação) por todo o ecossistema."
+        },
+        "patrimonio_entropico_reservado": {
+            "type": "integer_count",
+            "domain": "Tesouraria L2_Council",
+            "description": "Contagem bruta oficial do número global de Eurekas catalogados excepcionalmente na camada 4 de Rarefação (Sementes puras da Noosfera)."
+        }
+    }
+}

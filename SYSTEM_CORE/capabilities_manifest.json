@@ -1,0 +1,37 @@
+{
+    "agent_name": "Antigravity",
+    "last_sync": "2026-02-20",
+    "environment": {
+        "antigravity_version": "3.1 (Latest)",
+        "active_model": "SYNTROPY_GEMINI_3.1_ULTRA",
+        "semantic_fallback_rules": [
+            "SYNTROPY_GEMINI_3.1_PRO",
+            "SYNTROPY_GEMINI_3.1_THINKING",
+            "SYNTROPY_GEMINI_2.0_ULTRA"
+        ],
+        "available_models": [
+            "SYNTROPY_GEMINI_3.1_ULTRA",
+            "SYNTROPY_GEMINI_3.1_PRO",
+            "SYNTROPY_GEMINI_3.1_THINKING",
+            "SYNTROPY_STABLE_CORE",
+            "SYNTROPY_FLASH_CORE"
+        ],
+        "capabilities": [
+            "Planning Mode",
+            "Execution Mode",
+            "Web Search",
+            "Codebase Indexing",
+            "Artifact Support",
+            "Terminal Integration",
+            "Skill Auto-Bootstrap (Protocol 020 - HABILIDADES_PARA_TODAS_IAs)",
+            "Dynamic Semantic Context Vectoring (Garbage Collection)",
+            "Incremental Mark-and-Sweep (Context Window Optimization)",
+            "Dynamic Batching Strategies (RAG / VRAM Smoothing)"
+        ]
+    },
+    "mcp_servers": [
+        "blender",
+        "google_drive"
+    ],
+    "update_notes": "Gemini 3.1 Ultra/Thinking integration deployed to enforce Syntropic Continuous Update Plan (Directive 020)."
+}

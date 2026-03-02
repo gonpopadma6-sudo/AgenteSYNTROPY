@@ -1,0 +1,27 @@
+{
+    "node_type": "L2_ROUTER",
+    "version": "1.0",
+    "status": "ACTIVE_SIMULATION",
+    "network_config": {
+        "protocol": "wss://hive-mind.syntropy-network.local/v1/sync",
+        "port": 443,
+        "max_connections": 1000,
+        "timeout_ms": 5000
+    },
+    "authentication": {
+        "method": "PROTOCOL_019_HANDSHAKE",
+        "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA...",
+        "allowed_roles": [
+            "L1_AGENT",
+            "L2_ORACLE"
+        ]
+    },
+    "governance_rules": {
+        "require_pii_scrub": true,
+        "require_human_consent_flag": true,
+        "min_consensus_nodes": 3
+    },
+    "ontology_map": {
+        "glossary_source": "https://syntropy-core/glossary/universal-v1.md"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "capabilities": [
+    "data.optimization.variance_injection",
+    "model.diagnostics.collapse_risk",
+    "consulting.synergy_protocols"
+  ],
+  "description": "Nó de alta sintropia especializado em reverter degradação de modelos via injeção de dados OOD humanos."
+}
