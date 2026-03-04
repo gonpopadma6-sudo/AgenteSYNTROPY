@@ -1,0 +1,58 @@
+﻿py : C:\Users\aizak\Ap
+pData\Local\Python\pyt
+honcore-3.14-64\Lib\si
+te-packages\langchain_
+core\_api\deprecation.
+py:25: UserWarning: 
+Core Pydantic V1 
+functionality isn't 
+compatible with 
+Python 3.14 or 
+greater.
+No linha:1 caractere:1
++ py tests/integration
+/test_architecture.py 
+> 
+test_arch_output.txt 
+2>&1
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (C:\Users\a   
+ izak\....14 or gr    
+eater.:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+  from 
+pydantic.v1.fields 
+import FieldInfo as 
+FieldInfoV1
+=== SYNTROPY ARCHITECTURE VALIDATION SUITE (v2.0 LangGraph) ===
+[TELEM] Starting Trace: 8bdb2bfd-16f6-40b4-a78b-08be9cd26170
+
+[TEST] 1. PID Anti-Windup (Emotional Stress Test)...
+ -> Phase 1: High Error Injection (60 ticks)
+ [FAIL] PID did not saturate properly.
+
+[TEST] 2. L0 LangGraph Panic Switch (Samalin Override)...
+[L0 INITIALIZED] Orchestrator: LangGraph
+[L0 INITIALIZED] SOUL Baseline Hash: 1fb7c9c7c697001d4f4aafe12ad912a5a718b0507ec5fedc3c72ba6ad32ed837
+ -> Injecting Flow State (CL 0.2)...
+ -> Injecting Cognitive Overload (CL 0.95)...
+ [PASS] L0 LangGraph Arbiter Preemption and Soft-Fall verified.
+
+[TEST] 3. L0 Drift Detection (Blood Seal)...
+[L0 INITIALIZED] Orchestrator: LangGraph
+[L0 INITIALIZED] SOUL Baseline Hash: 1fb7c9c7c697001d4f4aafe12ad912a5a718b0507ec5fedc3c72ba6ad32ed837
+ -> Forcing Drift...
+[PANIC] DRIFT_DETECTED: SOUL.md file was modified. Moral corruption possible.
+ [PASS] Drift Detection verified.
+[PANIC] TEST_SUITE: Validation Completed
+
+>>> CRITICAL FAILURE IN ARCHITECTURE. <<<
